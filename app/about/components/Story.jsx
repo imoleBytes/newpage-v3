@@ -12,7 +12,7 @@ const Story = () => {
                     </div>
                     <div className="prose prose-lg max-w-none">
                         <p className="text-lg text-gray-700 mb-6">
-                            Newpage Edu Consult was founded in 2010 by Dr. Robert Williams, a passionate educator with over two decades of experience in academia. After witnessing firsthand the challenges students faced in traditional educational settings, Dr. Williams envisioned a tutoring service that would provide personalized support to help students reach their full potential.
+                            Newpage Edu Consult was founded in 2010 by Mr Yusuf Abiodun, a passionate educator with over two decades of experience in academia. After witnessing firsthand the challenges students faced in traditional educational settings, Dr. Williams envisioned a tutoring service that would provide personalized support to help students reach their full potential.
                         </p>
                         <p className="text-lg text-gray-700 mb-6">
                             What began as a small operation with just five dedicated tutors has grown into a comprehensive educational consulting firm with over 200 expert educators serving thousands of students across the country. Throughout our growth, we've maintained our commitment to individualized attention and academic excellence.
