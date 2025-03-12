@@ -19,6 +19,9 @@ const Header = () => {
                     <nav className="hidden md:flex space-x-8 items-center">
                         <Link href="/" className="text-gray-700 hover:text-primary font-medium">Home</Link>
                         <Link href="/about" className="text-gray-700 hover:text-primary font-medium">About</Link>
+                        <Link href="/menu/help" className="text-gray-700 hover:text-primary font-medium">Help</Link>
+                        <Link href="/menu/helper" className="text-gray-700 hover:text-primary font-medium">Helper</Link>
+
                         <Link href="/#services" className="text-gray-700 hover:text-primary font-medium">Services</Link>
                         <Link href="/#subjects" className="text-gray-700 hover:text-primary font-medium">Subjects</Link>
                         <Link href="/#how-it-works" className="text-gray-700 hover:text-primary font-medium">How It Works</Link>
